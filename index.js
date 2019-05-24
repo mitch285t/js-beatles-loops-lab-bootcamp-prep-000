@@ -33,5 +33,5 @@ function iLoveTheBeatles(n) {
   } while (n < 15); {
     
   }
-  return array;
+  return array[n];
 }
